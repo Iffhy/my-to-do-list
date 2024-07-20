@@ -1,3 +1,4 @@
 # my-to-do-list
-https://github.com/Iffhy/my-to-do-list.git
+iffhy.github.io/my-to-do-list/
+
 
